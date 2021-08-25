@@ -1,3 +1,3 @@
 This is a collection of example mods for *Supreme Commander: Forged Alliance*.
 
-For more information on specific examples, see the [wiki](../wiki).
+For more information on specific examples, see the [wiki](../../wiki).
